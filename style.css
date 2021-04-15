@@ -62,3 +62,9 @@ html {
   transform: scale(0.8);
 }
 
+@media (max-width: 768px) {
+  .text-contact {
+    font-size: 1rem;
+  }
+}
+
